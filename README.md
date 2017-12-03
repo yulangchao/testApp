@@ -1,6 +1,6 @@
 # Fortinet
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.3.2.
+This project is using Angular4 to create a search web application for test. The api is fake and located at "assets/data.json".
 
 ## Development server
 
@@ -26,3 +26,5 @@ Before running the tests make sure you are serving the app via `ng serve`.
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+
+

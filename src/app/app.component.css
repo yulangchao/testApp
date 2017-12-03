@@ -1,0 +1,60 @@
+#search-bar{
+    width:100%;
+    text-align: left;
+    margin-bottom: 30px;
+}
+
+.page-brand{
+    color: white;
+    margin: 10px 0px;
+}
+
+.result-body{
+    margin-top:80px;
+    margin-bottom:100px;
+}
+
+.page-header{
+    text-align: left;
+}
+
+.result{
+    text-align: left;
+}
+
+#pagination-controls{
+    margin-top:40px;
+}
+
+.result-intro{
+    font-size: 17px;
+}
+
+.result-name{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.result-type{
+    font-size: 20px;
+}
+
+.apps{
+    padding:10px;
+    margin: 10px;
+}
+
+.result-tag p{
+    display: inline-block;
+    background: rgba(45,45,45,.1);
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: black;
+    text-align: left;
+    padding:10px;
+ }
